@@ -1,3 +1,3 @@
 # hello-world
 branch of first repository
-snoop Here,LEts see where we go from here.
+snoop Here,Lets see where we go from here.
